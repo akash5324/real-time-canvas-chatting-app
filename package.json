@@ -1,0 +1,19 @@
+{
+  "name": "socket-demo",
+  "version": "1.0.0",
+  "description": "socket programming demo using nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "akash yadav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  },
+  "devDependencies": {
+    "fly": "^2.0.5"
+  }
+}
